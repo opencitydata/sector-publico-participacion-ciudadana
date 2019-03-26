@@ -1,6 +1,3 @@
-# sector-publico-participacion-ciudadana
-Vocabulario para la representación de datos relacionados con participación ciudadana
-
 # Vocabulario sobre participación ciudadana / Vocabulary about participation
 
 Este repositorio contiene el material relacionado con el vocabulario para la descripción de los datos relacionados con participación ciudadana, que se identifica (y publica) en la siguiente URI:
